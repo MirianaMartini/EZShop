@@ -1,0 +1,8 @@
+#Do not delete the lines preceded by an '#' and do not modify the first three credit cards
+#since they will be used in the acceptance tests.
+#The lines preceded by an '#' must be ignored.
+#Here you can add all the credit card numbers you need with their balance. The format MUST be :
+#<creditCardNumber>;<balance>
+4485370086510891;150.00
+5100293991053009;10.00
+4716258050958645;0.00
