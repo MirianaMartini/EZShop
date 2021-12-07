@@ -11,8 +11,8 @@ EZShop was made for small shops that require a simple application to support the
 DEVELOPMENT PROCESS  
 <ul>
  <li>Step 1 - Requirement analysis and formalization</li>
- <li>Step 2 - GUI design Step</li>
- <li>3 - Software design document</li>
+ <li>Step 2 - GUI design </li>
+ <li>Step 3 - Software design document</li>
  <li>Step 4 - Coding (Java, MySQL)</li>
  <li>Step 5 - Testing (JUnit)</li>
  </ul>
